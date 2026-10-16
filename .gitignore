@@ -1,0 +1,9 @@
+# Python 가상환경
+.venv/
+
+# Python 실행 중 생성되는 캐시
+__pycache__/
+*.pyc
+
+# 비밀번호·API 키 등을 담는 로컬 설정
+API_Key.txt
